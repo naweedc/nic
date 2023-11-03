@@ -1,0 +1,4 @@
+name: analysis
+description: >
+   A standard analysis template for sharing results
+create_dir: FALSE

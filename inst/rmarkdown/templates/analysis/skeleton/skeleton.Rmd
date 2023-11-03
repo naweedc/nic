@@ -1,0 +1,52 @@
+---
+title: "Title"
+author: "Naweed Chowdhury"
+date:
+output:
+  html_document:
+    toc: true
+    toc_float: true
+theme: united
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+```
+
+# Introduction
+
+
+# Setup
+
+## Packages
+
+```{r}
+
+library(tidyverse)
+library(readr)
+library(here)
+
+```
+
+## Data
+
+***Loading***
+```{r}
+
+```
+
+
+***Cleaning***
+```{r}
+
+```
+
+***Imputation***
+```{r}
+
+```
+
+# Exploration
+
+
+# Inference
